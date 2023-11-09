@@ -1,0 +1,14 @@
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\bin\Debug\net7.0\sistemahospedagem.exe
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\bin\Debug\net7.0\sistemahospedagem.deps.json
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\bin\Debug\net7.0\sistemahospedagem.runtimeconfig.json
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\bin\Debug\net7.0\sistemahospedagem.dll
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\bin\Debug\net7.0\sistemahospedagem.pdb
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.AssemblyInfoInputs.cache
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.AssemblyInfo.cs
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.csproj.CoreCompileInputs.cache
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.dll
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\refint\sistemahospedagem.dll
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.pdb
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\sistemahospedagem.genruntimeconfig.cache
+C:\Users\aana2\OneDrive\Documentos\trabalho\sistemahospedagem\obj\Debug\net7.0\ref\sistemahospedagem.dll
